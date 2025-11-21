@@ -30,7 +30,9 @@ Program:
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 
-Developed by: RegisterNumber: 25017601
+Developed by: R. KEERTHIKA
+
+RegisterNumber: 25017601
 RTL realization
 
 Output:
